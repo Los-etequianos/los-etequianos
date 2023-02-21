@@ -9,8 +9,8 @@ Nosso foco é trazer uma solução que seja boa para a instituição de ensino, 
 
  <div>
   <a href="https://github.com/los-etequianos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=los-etequianos&show_icons=true&theme=grouvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=los-etequianos&layout=compact&langs_count=7&theme=grouvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=los-etequianos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=los-etequianos&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block" height="150em"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
