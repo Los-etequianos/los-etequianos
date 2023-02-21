@@ -5,7 +5,8 @@ Somos o grupo semifinalista e criamos essa conta para deixar disponível nosso p
 Temos o intuito de criar algo que ajude os alunos e professores com os problemas que hoje é possível ver no meio escolar como: o desinteresse do aluno pela escola, ensino não diversificado e que não atinge uma qualidade adequada. 
 Nosso foco é trazer uma solução que seja boa para a instituição de ensino, que seja uma ferramenta parceira dos professores e que seja algo que, além de ensinar, traz ao aluno uma diversificação e gamificação do ensino em sala de aula.
 
-
+Nossos email para contato:
+Grupo: losetequianos22@gmail.com
 
  <div>
   <a href="https://github.com/los-etequianos">
