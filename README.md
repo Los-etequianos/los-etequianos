@@ -5,8 +5,13 @@ Somos o grupo semifinalista e criamos essa conta para deixar disponível nosso p
 Temos o intuito de criar algo que ajude os alunos e professores com os problemas que hoje é possível ver no meio escolar como: o desinteresse do aluno pela escola, ensino não diversificado e que não atinge uma qualidade adequada. 
 Nosso foco é trazer uma solução que seja boa para a instituição de ensino, que seja uma ferramenta parceira dos professores e que seja algo que, além de ensinar, traz ao aluno uma diversificação e gamificação do ensino em sala de aula.
 
-Nossos email para contato:
-Grupo: losetequianos22@gmail.com
+Nossos contato:
+- Grupo: losetequianos22@gmail.com
+- (Orientadora) Marina João: <a href="https://www.instagram.com/marinajoao1013/">@marinajoao1013<a/>
+- Letícia Pimenta: <a href="https://www.instagram.com/leticiarpimenta/">@leticiarpimenta<a/>
+- Lorena Batista: <a href="https://www.instagram.com/lorena_souza005/">@lorena_souza005<a/>
+- Pedro Octávio: <a href="https://www.instagram.com/movpedro/">@movpedro<a/>
+- Giovana Oliveira: <a href="https://www.instagram.com/_yogioliveira/">@_yogioliveira<a/>
 
  <div>
   <a href="https://github.com/los-etequianos">
@@ -19,8 +24,9 @@ Grupo: losetequianos22@gmail.com
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
- 
+##
+
+
 <div> 
   <a href="https://www.youtube.com/watch?v=x7jwLEoo5mw&ab_channel=RecordTVPaulista" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/losetequianos2022/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
